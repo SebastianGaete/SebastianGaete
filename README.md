@@ -5,7 +5,7 @@
 </div>
 
 
-<h3 align="center">Redes sociales</h3>
+# <h3 align="center">Redes sociales</h3>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/sebastianmoises.gaetefuentes/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/self.nombre_seba/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebasti%C3%A1n-gaete-fuentes-54607b276/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://es.quora.com/profile/Sebasti%C3%A1n-Gaete-Fuentes) 
 
 # 💻 Tech Stack:
